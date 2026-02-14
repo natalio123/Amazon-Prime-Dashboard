@@ -1,4 +1,6 @@
 # Amazon Prime Video Content Analysis Dashboard
+<img src="gambar/Prime video logo.png" width="800"/>
+
 ## Project Overview
 Proyek ini bertujuan untuk menganalisis dan memvisualisasikan dataset konten Amazon Prime Video yang mencakup data dari tahun 1920 hingga 2021. Dashboard interaktif ini membantu dalam memahami distribusi konten, preferensi genre, serta segmentasi rating audiens untuk mendukung pengambilan keputusan strategis berbasis data.
 
@@ -27,4 +29,4 @@ Exploratory Data Analysis (EDA): Menganalisis hubungan antara tahun rilis dengan
 Dashboard Design: Mengimplementasikan prinsip desain UI/UX dengan tema dark mode khas Amazon Prime untuk meningkatkan keterbacaan data.
 
 ## Dashboard Preview
-(Catatan: Ganti nama file ini sesuai dengan path gambar di repositori GitHub kamu)
+<img src="gambar/dashboard.png" width="800"/>
